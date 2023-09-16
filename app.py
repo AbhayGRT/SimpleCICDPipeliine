@@ -14,7 +14,7 @@ def index():
         # Download the profile's images, videos, and captions
         loader.download_profile(profile)
 
-        # Return a successful message
+        # Return a successful message of completion
         return render_template("success.html")
 
     else:
