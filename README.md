@@ -43,6 +43,7 @@ The Flask app should now be running locally. Open your web browser and access th
 ```
   http://localhost:5000
 ```
+![Instagram Profile Downloader](./ss.png)
 
 You should see the Instagram Profile Downloader web page. You can enter an Instagram profile name and click the "Download" button to download content from the specified profile.
 
