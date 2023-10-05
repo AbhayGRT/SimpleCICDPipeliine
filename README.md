@@ -48,3 +48,5 @@ The Flask app should now be running locally. Open your web browser and access th
 You should see the Instagram Profile Downloader web page. You can enter an Instagram profile name and click the "Download" button to download content from the specified profile.
 
 For private profiles, provide your Instagram username and password when prompted.
+
+Video: https://www.loom.com/share/8343e25f31ba4192b2b7fdb329afd7ac?sid=168be005-df47-4fb3-b45c-9d82c3388de2
